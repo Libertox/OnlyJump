@@ -1,4 +1,4 @@
-![alt-text](OnlyJump/Assets/Sprite/GitContent/Icon.png)
+![Logo](OnlyJump/Assets/Sprite/GitContent/Icon.png)
 
 Only Jump is a amazing platform game where your primary objective is to navigate through various obstacles using only your jumping skills.
 
